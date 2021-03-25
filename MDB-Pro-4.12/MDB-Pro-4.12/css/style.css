@@ -6,12 +6,12 @@ header,
 }
 
 #intro {
-    background: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img%20%283%29.jpg")no-repeat center center fixed;
+    background: url("https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1876170587,1466774316&fm=26&gp=0.jpg")no-repeat center center fixed;
     -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
     -moz-background-size: cover;    /* 针对Firefox浏览器 */
     -o-background-size: cover;      /* 针对Operallq */
     background-size: cover;         /* 通用 */
 }
 .top-nav-collapse {
-    background-color: #24355C;
+    background-color: rgba(255, 0, 0, 0.527);
   }
