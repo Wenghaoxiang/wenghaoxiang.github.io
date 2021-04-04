@@ -16,7 +16,7 @@ header,
 }
 
 .top-nav-collapse, .page-footer {
-  background-color: #563e91 !important;
+  background-color: #3b70e4 !important;
 }
 
 .navbar:not(.top-nav-collapse) {
@@ -25,7 +25,7 @@ header,
 
 @media (max-width: 991px) {
   .navbar:not(.top-nav-collapse) {
-    background: #563e91 !important;
+    background: #3e916a !important;
   }
 }
 
@@ -33,9 +33,9 @@ header,
   /* fallback for old browsers */
   background: rgba(35, 7, 77, 0.6);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: -webkit-linear-gradient(to right, rgba(204, 83, 51, 0.6), rgba(35, 7, 77, 0.6));
+  background: -webkit-linear-gradient(to right, rgba(13, 243, 243, 0.6), rgba(35, 7, 77, 0.6));
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  background: linear-gradient(to right, rgba(204, 83, 51, 0.6), rgba(35, 7, 77, 0.6));
+  background: linear-gradient(to right, rgba(13, 243, 243, 0.6), rgba(35, 7, 77, 0.6));
 }
 .streak.streak-photo {
   background-attachment: fixed;
